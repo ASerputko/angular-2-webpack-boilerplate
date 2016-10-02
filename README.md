@@ -1,1 +1,1 @@
-# Boilerplate Angular 2 Webpack
+# Angular 2 Webpack Boilerplate
